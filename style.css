@@ -8,6 +8,7 @@ body {
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
 }
+
 a {
 	color:#5f0099;
 }
@@ -500,7 +501,7 @@ input {
 @media all and (max-width:991px) {
 .navbar .navbar-collapse {
 	overflow: auto;
-	background:  rgb(213, 198, 221);
+	background: linear-gradient(to left, #00aeff, #37b643) ;
 	color: #fff !important;
 	text-align: center;
 	padding: 10px 0;
